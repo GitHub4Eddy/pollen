@@ -1,6 +1,6 @@
 Pollen
 
-This QuickApp gives access to real-time pollen count - tree, grass and weed, of any location in Asia, Europe, North America, Australia and New Zealand by latitude and longitude. 
+This QuickApp (for the Fibaro Homecenter 3) gives access to real-time pollen count - tree, grass and weed, of any location in Asia, Europe, North America, Australia and New Zealand by latitude and longitude. 
 
 Pollen is a fine powder produced by trees and plants. 
 =Pollen can severely affect people, especially those with different ailments such as asthma and respiratory issues. 
